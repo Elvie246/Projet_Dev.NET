@@ -61,8 +61,13 @@ Blazor Server (Web)-API REST Controller  ---> Interface dynamique Blazor (Signal
 
 
 ---
+## Lancement du projet
 
+Consulter le fichier [EXECUTE_ME.md](./EXECUTE_ME.md) pour les instructions détaillées de compilation, déploiement et test du projet.
+
+---
 ## Auteurs
+Projet réalisé dans le cadre d'un mini-projet universitaire – ESAIP_Ingénierie IoT
 
 - Elvie MAKANGA
 - Samuel AKAKPO
