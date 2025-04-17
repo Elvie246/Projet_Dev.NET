@@ -5,6 +5,21 @@ Ce projet vise à créer une communication fluide entre un dispositif embarqué 
 
 ---
 
+## Organisation du projet
+
+Le projet est divisé en deux dossiers principaux :
+
+- `BlazorApp/` : contient tout le code relatif à l’application web réalisée avec **Blazor**. On y retrouve :
+  - Le client web
+  - Le serveur (API REST)
+  - Les focntionnalités principales
+- `RaspberryPi/` : contient le code destiné à être exécuté sur la **Raspberry Pi ** pour gérer :
+  - La communication avec le serveur Blazor
+  - Le contrôle de la LED
+
+
+ ---
+
 ## Fonctionnalités principales
 
 ### Côté Raspberry Pi (Application Console .NET)
