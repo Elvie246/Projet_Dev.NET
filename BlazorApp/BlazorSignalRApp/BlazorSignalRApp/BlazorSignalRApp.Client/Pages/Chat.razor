@@ -18,7 +18,7 @@
         <input @bind="messageInput" size="50" />
     </label>
 </div>
-<button @onclick="Send" disabled="@(!IsConnected)">Send</button>
+<button @onclick="Send" disabled="@(!IsConnected || distribut)">Send</button>
 <button @onclick="npD" disabled="@(!IsConnected)">ne pas deranger: @(msdist)</button>
 
 <hr>
@@ -35,7 +35,7 @@
     private List<string> messages = [];
     private string? userInput;
     private string? messageInput;
-    private bool distribut;
+    private bool distribut = false;
     private string? msdist = "desactiver";
 
     protected override async Task OnInitializedAsync()
