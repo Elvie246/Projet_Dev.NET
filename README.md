@@ -65,6 +65,9 @@ Blazor Server (Web)-API REST Controller  ---> Interface dynamique Blazor (Signal
 
 Consulter le fichier [EXECUTE_ME.md](./EXECUTE_ME.md) pour les instructions détaillées de compilation, déploiement et test du projet.
 
+##Liens supplémentaires
+Disponible ici (lien Canva): https://www.canva.com/design/DAGk7GArmJA/hIFAJjDdtjAid1gq-xSyAg/edit?utm_content=DAGk7GArmJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---
 ## Auteurs
 Projet réalisé dans le cadre d'un mini-projet universitaire – ESAIP_Ingénierie IoT
