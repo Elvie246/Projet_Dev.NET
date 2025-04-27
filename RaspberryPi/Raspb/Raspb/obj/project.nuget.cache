@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3k0L/A0WJk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\Raspb\\Raspb\\Raspb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.device.gpio\\3.2.0\\system.device.gpio.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

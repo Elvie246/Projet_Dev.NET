@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Dev.net\Raspb.exe
+C:\Users\LENOVO\Documents\Dev.net\Raspb.dll
+C:\Users\LENOVO\Documents\Dev.net\Raspb.deps.json
+C:\Users\LENOVO\Documents\Dev.net\Raspb.runtimeconfig.json
+C:\Users\LENOVO\Documents\Dev.net\Raspb.pdb
+C:\Users\LENOVO\Documents\Dev.net\System.Device.Gpio.dll
